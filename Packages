@@ -1,0 +1,14 @@
+Package: (com.orangekeys.NoSillyDotsXI)
+Name: NoSillyDotsXI 
+Version: 1.0.1
+Size: 4096
+Architecture: iphoneos-arm
+Description: Hide them silly page dots
+Maintainer: orangekeys <email@provider.com>
+Author: orangekays <email@provider.com>
+Section: (Cydia Section)
+MD5sum:
+SHA1sum:
+SHA256sum:
+Filename: debs//NoSillyDotsXI.deb
+

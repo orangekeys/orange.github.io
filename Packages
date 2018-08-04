@@ -1,0 +1,29 @@
+Package: com.orangekeys.NoSillyDotsXI
+Name: NoSillyDotsXI 
+Depends: mobilesubstrate
+Version: 1.0.2
+Architecture: iphoneos-arm
+Description: Hide them silly page dots!!
+Maintainer: orangekeys <achapinvtac7@gmail.com>
+Author: orangekeys <achapinvtac7@gmail.com>
+Section: Tweaks
+Filename: ./debs/NoSillyDotsXI.deb
+MD5sum: 1be08834b0d398756ad2ac72c893c8ae
+SHA1: 50b1d7a0751d69d4a1fbc6c1761761bc026c7702
+SHA256: 481cf5aa0eab8e26d5cbc76faf56934a37ed41e61dcd2685909e0a7c95f24bfe
+Size: 1160
+
+Package: com.orangekeys.StopWithThePageDots
+Name: StopWithThePageDots
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 7.0)
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Stop them page dots from showing
+Maintainer: orangekeys <achapinvtac7@gmail.com>
+Author: orangekeys <achapinvtac7@gmail.com>
+Section: Tweaks
+Filename: ./debs/StopWithThePageDots.deb
+MD5sum: 1be08834b0d398756ad2ac72c893c8ae
+SHA1: 50b1d7a0751d69d4a1fbc6c1761761bc026c7702
+SHA256: 481cf5aa0eab8e26d5cbc76faf56934a37ed41e61dcd2685909e0a7c95f24bfe
+Size: 2732

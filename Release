@@ -2,8 +2,8 @@ Origin: orangekeys Repo
 Label: orangekeys Official Repo
 Suite: stable
 Version: 1.0.2
-Size: 1296
+Size: 1168
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: Hiide them silly page dots!!
+Description: Hide them silly page dots!!
